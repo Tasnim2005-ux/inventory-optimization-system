@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backup files
+*_backup.py
+*backup*
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
